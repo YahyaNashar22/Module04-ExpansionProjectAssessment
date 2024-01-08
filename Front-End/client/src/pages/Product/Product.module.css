@@ -1,0 +1,56 @@
+.wrapper{
+    height: 70vh;
+    width: 100%;
+    display: flex;
+    color: #f8f8f8;
+}
+.left{
+    margin: auto 30px;
+    height: 60vh;
+    width: 30vw;
+    border: 1px solid pink;
+    border-radius: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: pink;
+    font-size: 4rem;
+}
+.desc{
+    font-size: 2rem;
+    color: pink;
+    line-height: 100px;
+}
+.right{
+    margin: auto 30px;
+    width: 50vw;
+}
+.description{
+    margin-bottom: 60px;
+    font-size: 1.2rem;
+}
+.first{
+    line-height: 50px;
+    color: pink;
+    font-size: 1.5rem;
+}
+.second{
+    color: #f8f8f8;
+    
+}
+.products{
+    text-decoration: none;
+    color: pink;
+    border: 1px solid pink;
+    height: 5vh;
+    width: 5vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 16px;
+    margin-top: 10px;
+    transition: 0.6s;
+}
+.products:hover{
+    background-color: rgb(50,50,50);
+}

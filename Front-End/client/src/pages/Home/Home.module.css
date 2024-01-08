@@ -1,0 +1,12 @@
+.intro{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: #f8f8f8;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 70vh
+}
+.paragraph{
+    font-size: 1.5rem;
+}
